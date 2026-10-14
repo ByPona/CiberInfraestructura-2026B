@@ -10,7 +10,6 @@ namespace SistemaInventario
     public partial class Form1 : Form
     {
         // Configuración de la conexión a MySQL.
-        // Cambia TU_CONTRASEÑA por tu contraseña real.
         private readonly string connectionString =
             "Server=localhost;Database=EmpresaInventario;Uid=root;Pwd=219748227Fcg0209#;";
 
